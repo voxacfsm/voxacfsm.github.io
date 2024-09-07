@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://voxacfsm.github.io/sitemap/sitemap.txt
